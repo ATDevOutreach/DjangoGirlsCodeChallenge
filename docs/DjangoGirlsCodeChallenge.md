@@ -1,4 +1,4 @@
-# USSD Code Challenge 
+# Django Girls Code Challenge 
 In this code challenge you will be required to make a Django application that:
 1. Implements authentication (User can login and logout)
 2. The user can create a list of contacts and saves it to a DB of your choice
